@@ -1,5 +1,6 @@
-@extends('layouts.app')
+@extends('layouts.master')
 
+@section('title','Home')
 @section('section')
 
 
